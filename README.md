@@ -1,3 +1,23 @@
+# NOTE : Login not working. Password reset + Register working.
+# https://password-reset-flow-frontend.netlify.app/
+
+![Screenshot (33)](https://user-images.githubusercontent.com/56134448/158030947-77f4c103-8c18-46ed-aca3-991dd0928029.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/56134448/158030950-f45d419b-feed-4852-b70c-b6f38077a062.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/56134448/158030951-0db098bc-972e-4c6a-98d9-7ee30649a2eb.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/56134448/158030952-9f28926e-6a7e-4014-9bcb-54ae8afd7ac8.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/56134448/158030954-30d01fff-ad54-4622-817e-d20d9ce3fca2.png)
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
