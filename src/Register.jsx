@@ -23,7 +23,7 @@ function Register() {
       cpass: Yup.string().oneOf(
         [Yup.ref("password"), null],
         "Passwords must match!"
-      ),
+      ).required("Required!")
     }),
     onSubmit: (values) => {
       handleRegister(values);
